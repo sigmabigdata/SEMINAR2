@@ -9,5 +9,4 @@
 Console.WriteLine("Введите трехзначное число: ");
 int number = int.Parse(Console.ReadLine());
 int a = (int)Math.Log10(number)-1;
-    Console.WriteLine(a < 0 ? "Второе число отсутствует" 
-        : (number % (int)Math.Pow(10, a + 1) / (int)Math.Pow(10, a)).ToString());
+    Console.WriteLine((number % (int)Math.Pow(10, a + 1) / (int)Math.Pow(10, a)).ToString());
