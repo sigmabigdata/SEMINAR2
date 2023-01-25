@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dyroul\\.nuget\\packages\\": {}
+    "C:\\Users\\dyrul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Seminar2\\Task10\\Task10.csproj",
+      "projectUniqueName": "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task10\\Task10.csproj",
       "projectName": "Task10",
-      "projectPath": "C:\\Projects\\Seminar2\\Task10\\Task10.csproj",
-      "packagesPath": "C:\\Users\\dyroul\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Seminar2\\Task10\\obj\\",
+      "projectPath": "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task10\\Task10.csproj",
+      "packagesPath": "C:\\Users\\dyrul\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dyroul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dyrul\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

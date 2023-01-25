@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Seminar2\\Task13\\Task13.csproj": {}
+    "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task13\\Task13.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Seminar2\\Task13\\Task13.csproj": {
+    "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task13\\Task13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Seminar2\\Task13\\Task13.csproj",
+        "projectUniqueName": "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task13\\Task13.csproj",
         "projectName": "Task13",
-        "projectPath": "C:\\Projects\\Seminar2\\Task13\\Task13.csproj",
-        "packagesPath": "C:\\Users\\dyroul\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Seminar2\\Task13\\obj\\",
+        "projectPath": "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task13\\Task13.csproj",
+        "packagesPath": "C:\\Users\\dyrul\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\Projects\\Seminar2\\Seminar2\\Task13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dyroul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dyrul\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
